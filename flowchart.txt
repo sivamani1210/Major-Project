@@ -1,0 +1,23 @@
+1. importing the packages
+2. exploring the dataset - PlantVilage Data
+3. Image Processing 
+	- Image Data Augmentation for Deep Learning
+	- Feature Extraction using OpenCV for SVM & SVR
+4. Data Extraction 
+5. Splitting the data into Train and Test
+6. Model building
+    - MobileNet
+    - PACNet based INceptionResNetV2
+    - NMF-TDNet using Convo Layers
+    - SVM
+    - SVR
+7.Training the Model with Train and Test and building the model 
+8.Flask Framework with Sqlite for signup and signin
+9.User gives input 
+10.the given input is preprocessed for prediction
+11.trained model is used for prediction for about image 
+12.final outcome is displayed through frontend
+
+Extension - MobileNet model along with the SVR is used as extension where 
+MobileNet model gives better accuarcy with less epochs comparing all other model and used to predicting the
+user inputs for analysis
